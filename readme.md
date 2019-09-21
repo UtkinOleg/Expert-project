@@ -1,7 +1,7 @@
 # Expert-projects-system
 
 This is the main part of my old PHP project: expert system for control projects.
-The project is closed in 2014.
+The project closed in 2014.
 
 # About
 
